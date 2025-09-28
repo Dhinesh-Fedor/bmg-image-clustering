@@ -90,13 +90,10 @@ Bash
  
 `cd bmp-image-clustering`
 
-2)  Add Your Images Place all the `.bmp image` files you want to analyze
-    inside the `Dataset/` folder.
+2)  In your terminal, navigate to the project's Launch `Jupyter Notebook` 
+    
 
-3)  Launch `Jupyter Notebook` In your terminal, navigate to the project's
-    root folder and run:
-
-4)  Execute the Code Open your notebook (.ipynb file) and run the cells
+3)  Execute the Code Open your notebook (.ipynb file) and run the cells
     sequentially.
 
 
