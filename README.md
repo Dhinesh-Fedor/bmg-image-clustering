@@ -86,9 +86,9 @@ pyspark numpy pillow
 
 Bash
 
-`git clone <your-repository-url>`
+`git clone https://github.com/Dhinesh-Fedor/bmg-image-clustering.git`
  
-`cd <your-project-directory>`
+`cd bmp-image-clustering`
 
 2)  Add Your Images Place all the `.bmp image` files you want to analyze
     inside the `Dataset/` folder.
