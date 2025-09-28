@@ -96,10 +96,6 @@ Bash
 3)  Launch `Jupyter Notebook` In your terminal, navigate to the project's
     root folder and run:
 
-Bash
-
-jupyter notebook
-
 4)  Execute the Code Open your notebook (.ipynb file) and run the cells
     sequentially.
 
